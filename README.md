@@ -2,7 +2,7 @@
 sql을 공부하다가 알게 된 것을 기록하는 저장소입니다.
 
 # MYSQl
-### insert into tableName *set* var = *value*;
+### insert into tableName set var = value;
 - mysql 확장sql문 
 -> set 으로 하면 필드명에 값을 저장해 놓으니 가독성이 높아짐.
 
