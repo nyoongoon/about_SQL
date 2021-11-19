@@ -9,6 +9,7 @@ sql을 공부하다가 알게 된 것을 기록하는 저장소입니다.
 ### ifnull() 
 - ex) select ifnull(name, '값이 없음') from test
 - test 테이블의 name필드 값이 null 일때 '값이 없음'을 리턴하는 함수.
+<br/><br/>
 
 # JOIN
 - 조인은 여러 개의 릴레이션을 사용해서 새로운 릴레이션을 만드는 과정.
