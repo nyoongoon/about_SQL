@@ -1,6 +1,18 @@
 # about_SQL
 sql을 공부하다가 알게 된 것을 기록하는 저장소입니다.
 
+
+# Foreign Key 사용 장단점
+
+- 외래키는 테이블의 특정 컬럼(데이터)이 다른 특정한 곳에도 존재함을 보증해주는 역할을 한다. 
+- 그렇게 함으로 데이터가 규칙에 어긋나지 못하게 해준다. 
+- 검증사항을 컴퓨터에게 맡기는 셈이지만, 그렇기에 DBMS는 매번 제약사항을 검증해야하기에 성능이 떨어질 수 있다. 
+
+https://dba.stackexchange.com/questions/168590/not-using-foreign-key-constraints-in-real-practice-is-it-ok
+https://dataedo.com/blog/why-there-are-no-foreign-keys-in-your-database-referential-integrity-checks
+<br/><br/>
+
+
 # MYSQl
 ### insert into tableName set var = value;
 - mysql 확장sql문 
